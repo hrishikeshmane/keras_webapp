@@ -1,5 +1,5 @@
 # Keras webapp for Image Classifier
-This a repo for deploying a Keras model on a Web-app, written in Flask
+This a repo for deploying a Keras (.h5 file) model on a Web-app, written in Flask
 
 ```shell
 $ cd keras_webapp
